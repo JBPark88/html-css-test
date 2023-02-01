@@ -1,0 +1,117 @@
+header {
+    text-align: center;
+    border: 1px solid black;
+}
+
+nav {
+    width: 19%;
+    float: left;
+    border: 1px solid black;
+    font-size: large;
+    background-color: blue;
+    color: white;
+}
+article {
+    width: 80%;
+    float: right;
+    border: 1px solid black;
+}
+footer {
+    border: 1px solid black;
+    text-align: center;
+    font-size: large;
+    background-color: blue;
+    color: white;
+}
+
+.contents {
+    display: inline-block;
+}
+
+
+/* 
+.parent {
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+    display: block;
+}
+
+
+.bg-evenodd:nth-child(even) {
+    background-color: gray;
+    height: 10px;
+}
+.bg-evenodd:nth-child(odd) {
+    background-color: yellow;
+    height: 10px;
+}
+
+
+.bg-image {
+    background-image: url("/pika.png");
+    height: 200px;
+    background-size: auto 100px;
+    background-repeat: repeat;
+    background-position: center;
+
+}
+
+.box1 {
+    margin: 10px;
+    border: dashed black;
+    border-width: 5px 10px 15px 20px;
+}
+
+.box2 {
+    margin: 10px;
+    border: dashed black;
+    border-width: 5px 10px 15px;
+}
+
+.box3 {
+    margin: 10px;
+    border: dashed black;
+    border-width: 5px 10px;
+}
+
+.box4 {
+    margin: 10px;
+    border: dashed black;
+    border-width: 5px;
+}
+
+.box1 {
+    border: dashed black;
+    border-width: 5px 10px 15px 20px;
+}
+
+.colortest {
+    background-color: gray;
+}
+
+
+span {
+    font-style: italic;
+}
+
+a {
+    font-size: xx-large;
+}
+
+a:hover {
+    color: red;
+}
+
+a:focus {
+    color: yellow;
+}
+
+h1,
+h2 {
+    margin-top: 100px;
+}
+
+.search-bar {
+    margin-bottom: 100px;
+} */
